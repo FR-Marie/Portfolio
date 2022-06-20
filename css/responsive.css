@@ -1,0 +1,26 @@
+@media(max-width:992px){
+    #bienvenue-clignote{
+        display: none;
+    }
+    #cube-droit{
+        display: none;
+    }
+    #cube-gauche{
+        margin-bottom: 50px;
+    }
+    h1{
+        font-size: 50px;
+    }
+    h2{
+        font-size: 35px;
+    }
+    h3{
+        font-size: 30px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    h5{
+        font-size: 30px;
+    }
+}
